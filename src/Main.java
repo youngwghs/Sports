@@ -6,6 +6,6 @@ public class Main {
         Sports sp1 = new Sports("Baseball");
         
         System.out.println(sp1);
-        //testing 
+        //testing /
     }
 }
